@@ -1,0 +1,6 @@
+
+    Amazon Laptop Data Load Report:
+    Total Records Processed: 2
+    New Records Inserted: 2
+    Records Updated: 2
+    
